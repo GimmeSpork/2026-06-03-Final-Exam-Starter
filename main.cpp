@@ -2,7 +2,7 @@
 # Author:           Lucy P
 # Lab:              Final Exam
 # Date:             June 9, 2026
-# Description:      prompt user for a how many miles they want to ride, then
+# Description:      prompt user for how many miles they want to ride, then
 #                   prompt user for how many miles they did ride for each day
 #                   of the week. Calculate the total miles, and whether or not
 #                   they met their goal, then output both solutions to the user.
